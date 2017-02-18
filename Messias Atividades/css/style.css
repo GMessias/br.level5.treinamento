@@ -1,0 +1,77 @@
+
+header {
+	position: fixed;
+
+	display: block;
+	
+	margin: 0;
+	padding: 0;
+
+	height: 10%;
+	width: 100%;
+}
+
+footer {
+	vertical-align: baseline;
+
+	position: fixed;
+
+	display: block;
+	
+	margin: 0;
+	padding: 0;
+
+	height: 10%;
+	width: 100%;
+}
+
+.ItemTop{
+	float: right;
+	margin-top: 1.5%;
+	margin-right: 4%;
+	height: 40%;
+	width: 10%;
+	background-color: darkblue;
+}
+
+.LogoTop{
+	margin-top: 1.5%;
+	width: 20%;
+	height: 100%;
+	margin-left: 2%;
+	background-color: blue;
+}
+
+.Caixinha{
+	padding-top: 10%;
+	margin-left: 7%;
+	width: 85%;
+	text-align: center;
+}
+
+.ItemCaixinha{
+	position: relative;
+	float: left;
+	background-color: lightblue;
+}
+
+#Pequena{
+	margin-top: 2%;
+	margin-left: 4%;
+	height: 80px;
+	width: 27%;
+}
+
+#Media{
+	margin-top: 2%;
+	margin-left: 4%;
+	height: 170px;
+	width: 27%;
+}
+
+#Grande{
+	margin-top: 2%;
+	margin-left: 4%;
+	height: 170px;
+	width: 58%;
+}
